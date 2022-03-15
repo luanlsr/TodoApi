@@ -47,3 +47,7 @@
 /home/luanramalho/Documentos/Cursos/TodoAPI/TodoApi/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
 /home/luanramalho/Documentos/Cursos/TodoAPI/TodoApi/bin/Debug/net6.0/Microsoft.Extensions.DiagnosticAdapter.dll
 /home/luanramalho/Documentos/Cursos/TodoAPI/TodoApi/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/luanramalho/Documentos/Cursos/TodoAPI/TodoApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/luanramalho/Documentos/Cursos/TodoAPI/TodoApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/luanramalho/Documentos/Cursos/TodoAPI/TodoApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/luanramalho/Documentos/Cursos/TodoAPI/TodoApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
